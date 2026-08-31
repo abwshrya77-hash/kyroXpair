@@ -1,6 +1,6 @@
 module.exports = {
-  BOT_NAME: 'WOLF TECH',
-  SESSION_PREFIX: 'WOLF',
+  BOT_NAME: 'KYROX-XMD',
+  SESSION_PREFIX: 'KYROX',
   AUTHOR: 'Silent Wolf',
   DEPLOY_HOST: 'wolfxpair.xwolf.space',
   PANEL_HOST: 'wolfxpair.xwolf.space',
