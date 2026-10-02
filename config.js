@@ -1,5 +1,5 @@
 {
-  "name": "toji-bot-pair",
+  "name": "saitara-saytra",
   "main": "index.js",
   "scripts": { "start": "node index.js" },
   "dependencies": {
